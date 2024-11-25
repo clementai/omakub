@@ -7,7 +7,7 @@ Watch the introduction video and read more at [omakub.org](https://omakub.org).
 ## Setup
 
 ```sh
-wget -qO- https://raw.githubusercontent.com/clementai/omakub/stable/boot.sh | bash
+wget -qO- https://raw.githubusercontent.com/clementai/omakub/refs/heads/master/boot.sh | bash
 ```
 
 ## Contributing to the documentation
